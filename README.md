@@ -1,4 +1,7 @@
 # configure-aws-credentials-actions-example
+[![Configure AWS Credentials](https://github.com/kg0r0/configure-aws-credentials-actions-example/actions/workflows/configure-aws-credentials.yml/badge.svg)](https://github.com/kg0r0/configure-aws-credentials-actions-example/actions/workflows/configure-aws-credentials.yml) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Configure AWS credential and region environment variables for use in other GitHub Actions. 
 
 ## References
